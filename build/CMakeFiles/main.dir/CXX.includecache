@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/textRender.h
+
+/home/kun/Desktop/projects/helloTruetype/src/textRender.cpp
+textRender.h
+/home/kun/Desktop/projects/helloTruetype/src/textRender.h
+

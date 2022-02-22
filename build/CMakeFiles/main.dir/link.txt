@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/textRender.cpp.o  -o main  -L/home/kun/Desktop/projects/helloTruetype/lib -Wl,-rpath,/home/kun/Desktop/projects/helloTruetype/lib -Wl,-Bstatic -lfreetype -Wl,-Bdynamic -lpng -lz -lbz2 -Wl,-Bstatic -lglad -lglfw3 -Wl,-Bdynamic -lGL -lX11 -lpthread -lXrandr -lXi -ldl 

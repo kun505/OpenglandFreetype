@@ -1,0 +1,3 @@
+/home/kun/Desktop/projects/helloTruetype/build/CMakeFiles/rebuild_cache.dir
+/home/kun/Desktop/projects/helloTruetype/build/CMakeFiles/main.dir
+/home/kun/Desktop/projects/helloTruetype/build/CMakeFiles/edit_cache.dir
